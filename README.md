@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Click [here](https://prasadadhav.github.io/Alphaoo1/) to view the interactive map.
 <!--
 **Alphaoo1/Alphaoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
